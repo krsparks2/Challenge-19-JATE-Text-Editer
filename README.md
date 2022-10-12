@@ -8,10 +8,10 @@
 
 
 ## Description
-This is an API for a social network application allowing users to share thoughts, react to friends thoughts and create a friends list.
+This is text editor that runs in the browser, it a single page application that meets PWA criteria.
 
 ## Use
-  npm start in node
+npm start in node
 
 ## Contributers
 [Tracy Guajardo](https://github.com/tracyroseguajardo)
